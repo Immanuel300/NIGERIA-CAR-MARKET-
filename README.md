@@ -68,7 +68,7 @@ The interactive Power BI dashboard includes:
 - Does not include year of manufacture, car condition scores, or user demographic data.
 - No data on resale value, ownership history, or maintenance frequency.
 
-## 🔄 9. Next Steps
+## 🔄 9. Next Steps 
 
 - Integrate real-time car listing datasets from local platforms like Jiji and Cars45.
 - Add additional features such as vehicle age, service history, and buyer demographics.
